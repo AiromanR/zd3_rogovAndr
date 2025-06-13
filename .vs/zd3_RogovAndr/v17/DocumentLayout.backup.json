@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Drunchik\\source\\repos\\zd3_RogovAndr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD66EF-87FE-4C45-ADE4-21184D50F2B1}|zd3_RogovAndr\\zd3_RogovAndr.csproj|c:\\users\\drunchik\\source\\repos\\zd3_rogovandr\\zd3_rogovandr\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD66EF-87FE-4C45-ADE4-21184D50F2B1}|zd3_RogovAndr\\zd3_RogovAndr.csproj|solutionrelative:zd3_rogovandr\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD66EF-87FE-4C45-ADE4-21184D50F2B1}|zd3_RogovAndr\\zd3_RogovAndr.csproj|c:\\users\\drunchik\\source\\repos\\zd3_rogovandr\\zd3_rogovandr\\servicecomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD66EF-87FE-4C45-ADE4-21184D50F2B1}|zd3_RogovAndr\\zd3_RogovAndr.csproj|solutionrelative:zd3_rogovandr\\servicecomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD66EF-87FE-4C45-ADE4-21184D50F2B1}|zd3_RogovAndr\\zd3_RogovAndr.csproj|c:\\users\\drunchik\\source\\repos\\zd3_rogovandr\\zd3_rogovandr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD66EF-87FE-4C45-ADE4-21184D50F2B1}|zd3_RogovAndr\\zd3_RogovAndr.csproj|solutionrelative:zd3_rogovandr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0871DD-B6D5-40F8-AF75-95DD90EDF0D1}|ComputersTests\\ComputersTests.csproj|c:\\users\\drunchik\\source\\repos\\zd3_rogovandr\\computerstests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0871DD-B6D5-40F8-AF75-95DD90EDF0D1}|ComputersTests\\ComputersTests.csproj|solutionrelative:computerstests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Drunchik\\source\\repos\\zd3_RogovAndr\\ComputersTests\\Test1.cs",
+              "RelativeDocumentMoniker": "ComputersTests\\Test1.cs",
+              "ToolTip": "C:\\Users\\Drunchik\\source\\repos\\zd3_RogovAndr\\ComputersTests\\Test1.cs",
+              "RelativeToolTip": "ComputersTests\\Test1.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAUwLwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:59:05.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Drunchik\\source\\repos\\zd3_RogovAndr\\zd3_RogovAndr\\Form1.cs",
+              "RelativeDocumentMoniker": "zd3_RogovAndr\\Form1.cs",
+              "ToolTip": "C:\\Users\\Drunchik\\source\\repos\\zd3_RogovAndr\\zd3_RogovAndr\\Form1.cs",
+              "RelativeToolTip": "zd3_RogovAndr\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:13:12.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\Users\\Drunchik\\source\\repos\\zd3_RogovAndr\\zd3_RogovAndr\\Computer.cs",
+              "RelativeDocumentMoniker": "zd3_RogovAndr\\Computer.cs",
+              "ToolTip": "C:\\Users\\Drunchik\\source\\repos\\zd3_RogovAndr\\zd3_RogovAndr\\Computer.cs",
+              "RelativeToolTip": "zd3_RogovAndr\\Computer.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAuwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:03:17.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceComputer.cs",
+              "DocumentMoniker": "C:\\Users\\Drunchik\\source\\repos\\zd3_RogovAndr\\zd3_RogovAndr\\ServiceComputer.cs",
+              "RelativeDocumentMoniker": "zd3_RogovAndr\\ServiceComputer.cs",
+              "ToolTip": "C:\\Users\\Drunchik\\source\\repos\\zd3_RogovAndr\\zd3_RogovAndr\\ServiceComputer.cs",
+              "RelativeToolTip": "zd3_RogovAndr\\ServiceComputer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:03:47.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

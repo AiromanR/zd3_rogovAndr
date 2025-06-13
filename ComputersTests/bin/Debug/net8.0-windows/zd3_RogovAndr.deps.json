@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "zd3_RogovAndr/1.0.0": {
+        "runtime": {
+          "zd3_RogovAndr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zd3_RogovAndr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Drunchik\source\repos\zd3_RogovAndr\zd3_RogovAndr\bin\Debug\net8.0-windows\zd3_RogovAndr.exe
+C:\Users\Drunchik\source\repos\zd3_RogovAndr\zd3_RogovAndr\bin\Debug\net8.0-windows\zd3_RogovAndr.deps.json
+C:\Users\Drunchik\source\repos\zd3_RogovAndr\zd3_RogovAndr\bin\Debug\net8.0-windows\zd3_RogovAndr.runtimeconfig.json
+C:\Users\Drunchik\source\repos\zd3_RogovAndr\zd3_RogovAndr\bin\Debug\net8.0-windows\zd3_RogovAndr.dll
+C:\Users\Drunchik\source\repos\zd3_RogovAndr\zd3_RogovAndr\bin\Debug\net8.0-windows\zd3_RogovAndr.pdb
+C:\Users\Drunchik\source\repos\zd3_RogovAndr\zd3_RogovAndr\obj\Debug\net8.0-windows\zd3_RogovAndr.Form1.resources
+C:\Users\Drunchik\source\repos\zd3_RogovAndr\zd3_RogovAndr\obj\Debug\net8.0-windows\zd3_RogovAndr.csproj.GenerateResource.cache
+C:\Users\Drunchik\source\repos\zd3_RogovAndr\zd3_RogovAndr\obj\Debug\net8.0-windows\zd3_RogovAndr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drunchik\source\repos\zd3_RogovAndr\zd3_RogovAndr\obj\Debug\net8.0-windows\zd3_RogovAndr.AssemblyInfoInputs.cache
+C:\Users\Drunchik\source\repos\zd3_RogovAndr\zd3_RogovAndr\obj\Debug\net8.0-windows\zd3_RogovAndr.AssemblyInfo.cs
+C:\Users\Drunchik\source\repos\zd3_RogovAndr\zd3_RogovAndr\obj\Debug\net8.0-windows\zd3_RogovAndr.csproj.CoreCompileInputs.cache
+C:\Users\Drunchik\source\repos\zd3_RogovAndr\zd3_RogovAndr\obj\Debug\net8.0-windows\zd3_RogovAndr.dll
+C:\Users\Drunchik\source\repos\zd3_RogovAndr\zd3_RogovAndr\obj\Debug\net8.0-windows\refint\zd3_RogovAndr.dll
+C:\Users\Drunchik\source\repos\zd3_RogovAndr\zd3_RogovAndr\obj\Debug\net8.0-windows\zd3_RogovAndr.pdb
+C:\Users\Drunchik\source\repos\zd3_RogovAndr\zd3_RogovAndr\obj\Debug\net8.0-windows\zd3_RogovAndr.genruntimeconfig.cache
+C:\Users\Drunchik\source\repos\zd3_RogovAndr\zd3_RogovAndr\obj\Debug\net8.0-windows\ref\zd3_RogovAndr.dll
+C:\Users\Drunchik\source\repos\zd3_RogovAndr\zd3_RogovAndr\obj\Debug\net8.0-windows\zd3_RogovAndr.sourcelink.json
